@@ -1,2 +1,3 @@
 # First
-first Github Repository
+first Github Repository of TaurusMinor
+Readme
